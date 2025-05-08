@@ -6,3 +6,4 @@ The implementation on Android uses https://github.com/patrickfav/bcrypt/
 The implementation on iOS uses https://github.com/felipeflorencio/BCryptSwift
 
 
+# flutter_bcrypt
